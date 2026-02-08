@@ -1,0 +1,4 @@
+flask
+pillow
+psd-tools
+gunicorn
